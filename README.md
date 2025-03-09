@@ -1,0 +1,1 @@
+In this project, a Heap and Stack data structures were both implemented. The stack was used to create a simple XML checker that checks if any XML tags are missing. The heap was simply used to analyze how numbers are sorted using a heap sort.
